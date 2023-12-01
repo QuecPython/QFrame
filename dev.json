@@ -1,0 +1,16 @@
+{
+    "TCP_SERVER": {
+        "host": "v5.idcfengye.com",
+        "port": 10025,
+        "timeout": 5,
+        "keep_alive": 5
+    },
+    "UART": {
+        "port": 2,
+        "baudrate": 115200,
+        "bytesize": 8,
+        "parity": 0,
+        "stopbits": 1,
+        "flowctl": 0
+    }
+}
