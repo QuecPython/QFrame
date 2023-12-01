@@ -2,6 +2,8 @@ Here is an English translation of the README file content:
 
 # QuecPython Application Framework - QFrame
 
+[[简体中文](./README_ZH.md)]
+
 ## Overview
 
 The `QFrame` application framework is a basic application framework developed by QuecPython. 
