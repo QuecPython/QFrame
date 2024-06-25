@@ -14,7 +14,7 @@ The overall functions include：
 
 ## Usage
 
-- [User Guider](./docs/en/User_Guider.md)
+- [API Reference Manual](./docs/en/API_Reference.md)
 - [Example Code](./docs/en/Example_Code.md)
 
 ## Contribution
