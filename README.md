@@ -1,6 +1,6 @@
 # QuecPython Application Framework - QFrame
 
-[[简体中文](./README_ZH.md)]
+[中文](README.zh.md) | English
 
 ## Overview
 
